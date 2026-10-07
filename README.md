@@ -2,15 +2,18 @@
 
 ### 💻 Desarrollador web | Creando aplicaciones y soluciones SaaS
 
-Soy desarrollador web enfocado en crear proyectos reales y seguir ampliando mis conocimientos en desarrollo full-stack.
+Soy desarrollador web en formación continua, con conocimientos en **HTML, CSS, Bootstrap y SCSS**, adquiridos y puestos en práctica mediante proyectos web responsive.
 
-Actualmente estoy desarrollando una plataforma SaaS para la gestión de gimnasios de deportes de contacto.
+Actualmente continúo ampliando mis conocimientos en tecnologías como **Next.js, React, TypeScript, Supabase y PostgreSQL**, aplicándolos al desarrollo de proyectos reales.
+
+🥊 Mi proyecto principal actualmente es **Gym Management SaaS**, una plataforma para la gestión de gimnasios de deportes de contacto.
 
 📍 Catalunya, España
 
+
 ---
 
-## 🥊 Proyecto destacado
+##  🚀 Proyectos destacados
 
 ### Gym Management SaaS
 
@@ -29,6 +32,20 @@ La aplicación permite gestionar:
 👉 [Ver el proyecto](https://github.com/Sergifbb/gym-management-saas)
 
 ---
+### 🌐 Proyecto Web Responsive
+
+Proyecto realizado durante mi formación en desarrollo web, utilizando **HTML, CSS, Bootstrap y SCSS**.
+
+El proyecto me permitió trabajar conceptos como:
+
+- 🎨 Maquetación con HTML y CSS
+- 📱 Diseño responsive
+- 🧩 Bootstrap
+- 🎯 SCSS
+- 💻 Adaptación de la interfaz a diferentes dispositivos
+
+👉 [Ver el proyecto](https://github.com/Sergifbb/actividad-bootstrap)
+
 
 ## 🛠️ Tecnologías
 
